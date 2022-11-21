@@ -1,3 +1,1 @@
-class Block {
-    constructor(private data: string){}
-}
+import {init, exit} from "./myPackage";
